@@ -1,0 +1,15 @@
+* {
+    box-sizing: border-box;
+  }
+.watch {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.watch div {
+    width: 185px;
+    height: 285px;
+}
+.point {
+    font-size: 150px;
+}
